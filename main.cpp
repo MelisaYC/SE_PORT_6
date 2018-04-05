@@ -8,5 +8,6 @@ int main()
 	std::cout << "MULTIPLY\n" << "1 * 2 = " << mul(1, 2) << '\n';
 	std::cout << "DIVISION\n" << "1 / 2 = " << divide(4, 2) << '\n';
 	std::cout << "DIVISION\n" << "1 / 2 = " << divide(6, 3) << '\n';
+	std::cout << "HELLO, WELCOME TO THIS MATH CALCULATOR" << '\n';
 	system("pause");
 }
